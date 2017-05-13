@@ -78,7 +78,7 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    domain: "cygmZgnd8XLhRpSi6FyRU3IK8xd3G0DfacBYSTih3t6i4OQ0BtgwLuymD9VlYb58gyC/Jf2vrKNwDCSokw4sqzszK5EZbHzDNwr1Bm/7Fq/0hq3L0mmSFJ/b+V2xHojvxcgq5YGMbKbzYziBPLQ55Gl2Hn+8wSdi50Xt0ElE7Sw="
+    #domain: "cygmZgnd8XLhRpSi6FyRU3IK8xd3G0DfacBYSTih3t6i4OQ0BtgwLuymD9VlYb58gyC/Jf2vrKNwDCSokw4sqzszK5EZbHzDNwr1Bm/7Fq/0hq3L0mmSFJ/b+V2xHojvxcgq5YGMbKbzYziBPLQ55Gl2Hn+8wSdi50Xt0ElE7Sw="
 
   # (*) REQUIRED
   #
